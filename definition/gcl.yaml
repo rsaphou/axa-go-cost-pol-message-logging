@@ -1,0 +1,13 @@
+---
+apiVersion: gateway.mulesoft.com/v1alpha1
+kind: Extension
+metadata:
+  labels:
+    title: Group Messagge Logging Policy
+    description: "Enhances system monitoring by providing additional logging fields unavailable from OOTB Message Logging Policy"
+    category: compliance
+    metadata/interfaceScope: api,resource
+spec:
+  extends:
+    - name: extension-definition
+      namespace: default
