@@ -9,7 +9,7 @@ edition = "2018"
 
 [package.metadata.anypoint]
 #C4E-CMN
-#group_id = "c4c35be9-c141-4844-8bb1-85837fdd7ec1"
+group_id = "c4c35be9-c141-4844-8bb1-85837fdd7ec1"
 #AOE-CMX
 #group_id = "fa8e8050-81d8-477a-a4c3-0c4f25df8525"
 #C4E-DMN
@@ -18,7 +18,7 @@ edition = "2018"
 #group_id = "f7a57101-19b5-4646-929d-133f3f5552f4"
 #ACH-CMN
 #group_id = "d1556d76-bc6b-41cc-af62-9d708bfe8dfc"
-group_id = "847916b2-61a8-475f-919b-35cfcddb88e4"
+#group_id = "847916b2-61a8-475f-919b-35cfcddb88e4"
 definition_asset_id = "group-message-logging-policy"
 implementation_asset_id = "group-message-logging-policy-flex"
 
